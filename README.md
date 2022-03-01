@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm a computer science lecturer at the University of South Wales
+- 🌱 I’m currently doing a PhD in cyber security and virtual reality
+- 🤔 I'm interested in IOT, virtual and agumented reality, cloud computing, and cyber security
+
 <!--
 **danieljharris/danieljharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
